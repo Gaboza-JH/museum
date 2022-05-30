@@ -40,7 +40,7 @@ Required request parameter 'Name' for method parameter type String is not presen
 Name값을 명확하게 명시해주니 해결됨<br>
 
 <h2>issue#2</h2>
-
+  
 ![화면 캡처 2022-05-31 051934](https://user-images.githubusercontent.com/92356170/171056083-4c9817b5-4dbd-437b-9067-db44cbe74a5c.png)<br>
 Server Tomcat v9.0 / v8.5 Server at localhost failed to start<br>
 1. 이클립스 재실행<br>
@@ -48,10 +48,15 @@ Server Tomcat v9.0 / v8.5 Server at localhost failed to start<br>
 3. m2파일을 날리고 다시 설치<br>
 
 <h2>issue#3</h2>
+  
 <h4>org.springframework.web.servlet.PageNotFound - No mapping for GET</h4><br>
 이름을 바꾼뒤 dispatcher-servlet.xml에서 context:component 태그에 패키지명을 수정해주지않아서 발생한 에러 바뀐 패키지명을 입력해줘서 해결함<br>
 
-
+<h2>issue#4</h2>
+@PatchMapping, @PutMapping (Path값 지정) 등 spring문의 사용방법<br>
+@Repository의 코드 작성 및 파라메타 값 지정<br>
+  
+  
 ## 느낀점 ✍
 
 
