@@ -1,19 +1,20 @@
 
 # 박물관 소장품 조회 API
 
-## 기술스택
-Eclipse IDE<br>
-Spring Web MVC 5.3.14<br>
-jackson-databind 2.12.3<br>
-hibernate-entitymanage 5.4.18<br>
-
-
 ## 조원
 
 🤷‍♂️이세운<br>
 🤦‍♀️이수민<br>
 🙋‍♀️명지안<br>
 🙅‍♂️원종혁<br>
+
+
+## 기술스택
+Eclipse IDE<br>
+Spring Web MVC 5.3.14<br>
+jackson-databind 2.12.3<br>
+hibernate-entitymanage 5.4.18<br>
+
 
 
 ## 기능구현
