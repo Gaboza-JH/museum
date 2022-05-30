@@ -16,6 +16,23 @@
 - hibernate-entitymanage 5.4.18<br>
   
 
+## 프로젝트 목표 📌
+ 1. JPA - DB 테이블 구성, 데이터 저장, 반환 (hibernate)
+ 2. RestAPI 데이터에 대한 요청, 응답 처리 (postman)
+ 3. Spring DI/IoC, 결합도와 응집도의 개념과 명령어들의 사용방법과 의미 
+
+## 프로젝트 구상 🛠
+ 1. 생성할 데이터 구상하기, 모델 생성 <br>
+   박물관 관련 (고유 id, 명칭, 전시된 층수, 시대, 개수 등) <br>
+ 2. hibernate를 통해 데이터 생성, 저장 및 반환 (key값 설정, null값 설정, 관계 설정) <br>
+  
+ 3. spring 컨트롤러 생성을 통해 CRUD 기능 구현 <br>
+  
+ 4. postman에 url로 연동 후 요청 및 응답 처리 <br>
+
+ 5. 문서로 추출하기! <br>
+  
+  
 ## 기능구현 🔧
 - CREATE : 소장품 현황을 추가하는 기능<br>
 - DELETE : 소장품의 정보를 ID를 통해 삭제하는 기능<br>
