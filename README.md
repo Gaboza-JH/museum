@@ -32,7 +32,8 @@
 
 ## Trouble Shooting ✏
 <h2>issue#1</h2>
-
+  
+![123](https://user-images.githubusercontent.com/103519499/171065481-db47e82e-40ec-4226-9180-8d9e62cae23f.PNG)
 ![image (8)](https://user-images.githubusercontent.com/92356170/171056286-06b12748-33d1-4060-9b3b-44397e46f89a.png)
 Required request parameter 'Name' for method parameter type String is not present<br>
 으로 포스트맨이 Name을 인식하지 못하는 에러가 발생했다<br>
@@ -50,6 +51,7 @@ Server Tomcat v9.0 Server at localhost failed to start<br>
 
 
 ## 느낀점 ✍
+
 
 - 이세운 : 이론적인부분을 다 이해해서 코드작성도 충분히 쉽게 할수있다고 생각했다 하지만 생각보다 어려웠고 오류난걸 해결하는데 시간이 많이 걸렸다 <br>
 - 이수민 : 처음부터 프로젝트를 어떻게 해야할지 감이 오지 않는 건 이번이 처음인 거 같다. 자바는 정말 어려운 거 같다. CRUD도 어느정도 알고 어떻게 작성해야할지도 느낌이 왔는데 JPA로 하니깐 하나도 모르겠고 어려웠다. 그래도 하면서 오류해결하고 직접 작성하면서 어느정도 이해가 되었다. 수업 들을 땐 어노테이션 그냥 따라 쓰면서 조금씩 이해했는데 막상 직접 코드 짜보니 어떤 상황에서 쓰고 작성하는지 알게 되었다. 하지만 아직까지는 너무 어렵다 <br>
