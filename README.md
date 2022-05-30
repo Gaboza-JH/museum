@@ -43,7 +43,9 @@ Name값을 명확하게 명시해주니 해결됨<br>
 
 ![화면 캡처 2022-05-31 051934](https://user-images.githubusercontent.com/92356170/171056083-4c9817b5-4dbd-437b-9067-db44cbe74a5c.png)<br>
 Server Tomcat v9.0 / v8.5 Server at localhost failed to start<br>
-1. 이클립스 재실행 2. 서버를 제거하고 코드를 재실행 3. m2파일을 날리고 다시 설치<br>
+1. 이클립스 재실행<br>
+2. 서버를 제거하고 코드를 재실행<br> 
+3. m2파일을 날리고 다시 설치<br>
 
 <h2>issue#3</h2>
 <h4>org.springframework.web.servlet.PageNotFound - No mapping for GET</h4><br>
