@@ -23,6 +23,11 @@
 - UPDATE : 소장품의 column인 이름,상태,시대정보,보관장소를 업데이트하는 기능<br>
 ![update전캡처](https://user-images.githubusercontent.com/92356170/171059851-30af0cae-704b-45e5-950e-b024e8eb77c4.PNG)
 ![update후캡처](https://user-images.githubusercontent.com/92356170/171059854-aabe77b2-79d8-4ae3-8d9a-300b170b3c9b.PNG)
+  
+ 추가할 기능
+  - 소장품 전체를 조회하는 기능
+  - 같은 조건을 가진 특정 소장품을 조회하는 기능 (같은 시대, 같은 층수에 전시, 상태 등)
+  
 
 
 ## Trouble Shooting ✏
