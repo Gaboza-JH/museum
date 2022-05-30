@@ -12,10 +12,10 @@
 
 
 ## 기술스택
-Eclipse IDE<br>
-Spring Web MVC 5.3.14<br>
-jackson-databind 2.12.3<br>
-hibernate-entitymanage 5.4.18<br>
+-Eclipse IDE<br>
+-Spring Web MVC 5.3.14<br>
+-jackson-databind 2.12.3<br>
+-hibernate-entitymanage 5.4.18<br>
 
 
 
